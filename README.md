@@ -34,7 +34,7 @@ Authors: Sanjay Ghemawat (sanjay@google.com) and Jeff Dean (jeff@google.com)
 # Getting the Source
 
 ```bash
-git clone --recurse-submodules https://github.com/google/leveldb.git
+git clone --recurse-submodules https://github.com/01spirit/leveldb.git
 ```
 
 # Building
